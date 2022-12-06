@@ -1,4 +1,4 @@
-English | [简体中文](./README-zh-Hans.md.md)
+English | [简体中文](./README-zh-Hans.md)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=/GaoJuqian)
 
