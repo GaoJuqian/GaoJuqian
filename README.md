@@ -1,6 +1,6 @@
 English | [简体中文](./README-zh-Hans.md)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=/GaoJuqian)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=/GaoJuqian) -->
 
 - <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=square&logo=typescript&logoColor=FFFFFF"/> <img align='center' src="https://img.shields.io/badge/-CSS--in--JS-333333?style=square&logo=jss&logoColor=F7DF1E"/> <img align='center' src="https://img.shields.io/badge/-Sass-BF4080?style=square&logo=sass&logoColor=FFFFFF"/>
 - <img align='center' src="https://img.shields.io/badge/-React_(Native)-E8F6FE?style=square&logo=react&logoColor=3B7C9F"/> 
